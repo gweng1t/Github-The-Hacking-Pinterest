@@ -1,5 +1,15 @@
 # README
 CASSAND Gwendoline & Nancy
+
+
+Lancer les commandes suivante:
+---------------------
+$ bundle install
+$ rails db:migrate
+$ rails db:seed
+--------------------
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
